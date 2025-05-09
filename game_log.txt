@@ -1,0 +1,9 @@
+[22:31:49] 
+--- INICIANDO NOVO JOGO ---
+[22:31:49] Módulo Constants carregado com sucesso
+[22:31:49] Módulo Menu carregado com sucesso
+[22:31:49] Módulo Board carregado com sucesso
+[22:31:49] Módulo Fighter carregado com sucesso
+[22:31:49] Módulo Game carregado com sucesso
+[22:31:49] Menu inicializado com sucesso
+[22:31:49] Fonte configurada com sucesso
